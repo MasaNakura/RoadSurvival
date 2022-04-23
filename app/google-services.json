@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383189383673",
+    "project_id": "roadsurvival-bcea0",
+    "storage_bucket": "roadsurvival-bcea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383189383673:android:e0d9f29e7af7b2a01a2528",
+        "android_client_info": {
+          "package_name": "com.example.gametest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383189383673-sc39nmshsb5knu9o1lv33fel5onmiatk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gametest",
+            "certificate_hash": "bdae05fb0f0ef5ca8e47a005e3283a1bf460fcfb"
+          }
+        },
+        {
+          "client_id": "383189383673-th2upj7pdr9kl91oser5jec1ongmeh5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-u_bdVPIoU-70KhX_Otd3cTrFVosIydM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383189383673-th2upj7pdr9kl91oser5jec1ongmeh5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
