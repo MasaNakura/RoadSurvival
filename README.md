@@ -2,7 +2,7 @@
 
 Road Survival is a racing game on Android. The goal of the player is to survive as long as they can without hitting an obstacle.
 
-### Beginning Remarks
+### Remarks
 While Road Survival started as a group project in a computer science class I took in my junior year of high school, I coded the bulk of it the following summer. 
 If you attempt to play Road Survival (instructions below), you will see how terrible my front-end development skills were (and still probably are).
 The bulk of my learning experience was in the backend, such as setting up a database to store + display online rankings among registered players, allowing users to change car colors, and enabling multi-touch functionality for implementing the same-device multiplayer mode. 
